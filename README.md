@@ -116,3 +116,4 @@ tests/                pipeline and headless UI tests
   of a page needs OCR, which isn't wired up — the app tells you when this happens
   instead of failing silently.
 - Uploads live in the browser session; closing the tab clears the library.
+....
