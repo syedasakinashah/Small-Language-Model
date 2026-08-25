@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets - never commit an API key
+.env
+.streamlit/secrets.toml
+
+# Student material and downloaded model weights
+data/pdfs/*
+!data/pdfs/.gitkeep
+models/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

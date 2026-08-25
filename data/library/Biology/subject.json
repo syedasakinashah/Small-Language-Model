@@ -1,0 +1,89 @@
+{
+  "name": "Biology",
+  "notes": [],
+  "quizzes": [
+    {
+      "title": "Quiz · 11 Aug, 09:56 PM",
+      "questions": [
+        {
+          "question": "Photosynthesis is the process by which green plants convert light ______ into chemical energy.",
+          "options": [
+            "release",
+            "molecule",
+            "energy",
+            "applied"
+          ],
+          "answer_index": 2,
+          "explanation": "The passage reads: “Photosynthesis is the process by which green plants convert light energy into chemical energy.”",
+          "citation": "Biology.pdf · p.1"
+        },
+        {
+          "question": "Aerobic respiration requires oxygen and produces carbon dioxide and ______.",
+          "options": [
+            "states",
+            "proportional",
+            "spectrum",
+            "water"
+          ],
+          "answer_index": 3,
+          "explanation": "The passage reads: “Aerobic respiration requires oxygen and produces carbon dioxide and water.”",
+          "citation": "Biology.pdf · p.2"
+        },
+        {
+          "question": "A larger mass therefore accelerates less for the same ______ force.",
+          "options": [
+            "product",
+            "parts",
+            "inversely",
+            "applied"
+          ],
+          "answer_index": 3,
+          "explanation": "The passage reads: “A larger mass therefore accelerates less for the same applied force.”",
+          "citation": "Biology.pdf · p.3"
+        },
+        {
+          "question": "The overall reaction consumes carbon ______ and water and releases oxygen as a by-product.",
+          "options": [
+            "object",
+            "proportional",
+            "dioxide",
+            "directly"
+          ],
+          "answer_index": 2,
+          "explanation": "The passage reads: “The overall reaction consumes carbon dioxide and water and releases oxygen as a by-product.”",
+          "citation": "Biology.pdf · p.1"
+        },
+        {
+          "question": "It takes place in the chloroplast, an organelle that contains the green ______ chlorophyll.",
+          "options": [
+            "proportional",
+            "pigment",
+            "plants",
+            "acting"
+          ],
+          "answer_index": 1,
+          "explanation": "The passage reads: “It takes place in the chloroplast, an organelle that contains the green pigment chlorophyll.”",
+          "citation": "Biology.pdf · p.1"
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "front": "What is Photosynthesis?",
+      "back": "Photosynthesis is the process by which green plants convert light energy into chemical energy.",
+      "citation": "Biology.pdf · p.1"
+    },
+    {
+      "front": "What is Respiration?",
+      "back": "Respiration is the process by which cells release energy from glucose.",
+      "citation": "Biology.pdf · p.2"
+    },
+    {
+      "front": "What is The mitochondrion?",
+      "back": "The mitochondrion is the organelle where aerobic respiration occurs.",
+      "citation": "Biology.pdf · p.2"
+    }
+  ],
+  "messages": []
+}

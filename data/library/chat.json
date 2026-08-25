@@ -1,0 +1,56 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "I couldn't find that in your uploaded material. Try rephrasing the question, or upload the PDF that covers this topic.",
+    "citations": ""
+  },
+  {
+    "role": "user",
+    "content": "what teh subject is about"
+  },
+  {
+    "role": "assistant",
+    "content": "I couldn't find that in your uploaded material. Try rephrasing the question, or upload the PDF that covers this topic.",
+    "citations": ""
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! 👋 I'm **Miss RUBI**, your study tutor.\n\nI've read your notes on **General**. Ask me anything from them — I'll explain it and show you exactly which page it came from.",
+    "citations": ""
+  },
+  {
+    "role": "user",
+    "content": "what is management"
+  },
+  {
+    "role": "assistant",
+    "content": "**Definition of Management:\nManagement means getting work done through other people in an organized and effective way.**\n\nMore from your notes:\n- Management is about making sure work is done properly and on time. `CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1`\n- Management is the art of getting things done through people. `CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1`\n- In modern organizations, management is essential for success, efficiency, and growth. `CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1`\n\n📖 Read it in full at **CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1**.",
+    "citations": "<span class=\"cite\">📄 CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1</span><span class=\"cite\">📄 CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.2</span><span class=\"cite\">📄 CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.5</span><span class=\"cite\">📄 CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.4</span><span class=\"cite\">📄 CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.3</span>"
+  },
+  {
+    "role": "user",
+    "content": "generate quizz"
+  },
+  {
+    "role": "assistant",
+    "content": "I couldn't find that in your uploaded material.\n\nTwo things that usually help:\n- Use a word that appears in the book (e.g. *photosynthesis* rather than *food making*)\n- Upload the PDF for this chapter with the **📎 Upload** button",
+    "citations": ""
+  },
+  {
+    "role": "user",
+    "content": "define grouping"
+  },
+  {
+    "role": "assistant",
+    "content": "**Definition of Management:\nManagement means getting work done through other people in an organized and effective way.**\n\nMore from your notes:\n- Management is about making sure work is done properly and on time. `CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1`\n- Management is the art of getting things done through people. `CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1`\n- In modern organizations, management is essential for success, efficiency, and growth. `CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1`\n\n📖 Read it in full at **CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1**.",
+    "citations": "<span class=\"cite\">📄 CHAP NO. 1 INTRO TO MANAGEMENT.pdf · p.1</span>"
+  }
+]

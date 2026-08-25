@@ -1,0 +1,13 @@
+# Core app - this is all you need to run Miss RUBI.
+streamlit>=1.40
+pymupdf>=1.24
+numpy>=1.26
+
+# Claude API engine (best answers, Urdu, answer-checking).
+# Optional: the app runs without it using the built-in reader.
+anthropic>=0.40
+
+# Optional offline engine. Heavy (~2.5 GB) and needs ~3 GB free RAM.
+# Install only if you want the tutor to work with no internet at all:
+#   pip install torch transformers sentence-transformers
+# then: python scripts/setup_models.py
